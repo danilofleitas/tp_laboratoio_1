@@ -123,7 +123,5 @@ int main(void)
 		while(opcion!=6);
 
 
-
-
 	return EXIT_SUCCESS;
 }
